@@ -1,0 +1,10 @@
+{
+  "roles": [
+    { "id": "administrador", "titulo": "Administrador" },
+    { "id": "informatica", "titulo": "Informatica" },
+    { "id": "secretaria", "titulo": "Secretaria" },
+    { "id": "transporte", "titulo": "Transporte" },
+    { "id": "recursos", "titulo": "Recursos Humanos" },
+    { "id": "camaras", "titulo": "Camaras" }
+  ]
+}
